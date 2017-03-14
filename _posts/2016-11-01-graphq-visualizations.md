@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Graphiq Visualizations
+title: Ontario Association of the Deaf
 desc: Create a design system to present the rich content of Graphiq’s knowledge graph onto digestible and embeddable knowledge units.
 date: 2016-11-01 00:00:00 -0800
-categories: graphiq
-tags: [System Design, UX]
+categories: website
+tags: [wordpress, website design]
 og: /assets/img/project-viz-hero.jpg
-ogtitle: Case Study - Graphiq Visualizations
+ogtitle: Portfolio - Ontario Association of the Deaf
 ogdesc: Create a design system to present the rich content of Graphiq’s knowledge graph onto digestible and embeddable knowledge units.
 ---
 
