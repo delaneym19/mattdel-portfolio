@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Samantha Zhang
-email: i@samantha.me
-tagline: Designer and Front-end Developer for Tools and Scalable Systems
+title: Matt Del
+email: matt@mattdel.com
+tagline: Website Designer and Front-end Developer
 keywords: Web Design,Web Designer,Designer,Front-end,design system,tools,Photoshop,Sketch,HTML,CSS,JavaScript
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /projects/:title
-url: "http://samanthaz.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: moyicat
-github_username:  moyicat
+url: "http://mattdel.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thegreydel
+github_username:  mattdel19
 
 # SASS
 sass:
