@@ -35,11 +35,7 @@
 	-o-user-select: none;
 	user-select: none;
 }
-@media screen and (min-width: 48.750em) {
-	.mobile {
-		display: none;
-	}
-}
+
 @media screen and (min-width: 40em) {
 	.js .nav-collapse {
 		position: relative;
@@ -49,8 +45,5 @@
 	}
 	.nav-toggle {
 		display: none;
-	}
-	.desktop {
-		display: none;	
 	}
 }
