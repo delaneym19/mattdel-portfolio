@@ -3,8 +3,8 @@ layout: post
 title: DeafOntario.ca Website
 desc: Create a versatile company about site with minimal effort and provide a way for the company to configure the content with ease.
 date: 2017-03-21 00:00:00 -0800
-categories: website
-tags: [System Design, Web Development]
+categories: mattdel
+tags: [Web Design, Web Development]
 og: /assets/img/home-graphiq.jpg
 ogtitle: Project - DeafOntario.ca Website
 ogdesc: Create a versatile company about site with minimal effort and provide a way for the company to configure the content with ease.
