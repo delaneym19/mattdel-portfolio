@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Matt Del
-email: matt@mattdel.com
+email: mattdel19@hotmail.com
 tagline: Website Designer and Front-end Developer
 keywords: Web Design,Web Designer,Designer,Front-end,design system,tools,Photoshop,Sketch,HTML,CSS,JavaScript
 baseurl: "" # the subpath of your site, e.g. /blog
